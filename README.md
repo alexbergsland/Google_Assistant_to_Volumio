@@ -3,9 +3,9 @@ Use Google Assistant to controll Volumio
 
 Google Assistant ---> IFTTT ---> Adafruit IO ---> python ---> Volumio
 
-For this to work you need:
-IFTTT account: https://ifttt.com
-Adafruit account: https://io.adafruit.com
+For this to work you need:  
+IFTTT account: https://ifttt.com  
+Adafruit account: https://io.adafruit.com  
 Something that runs Volumio, like a Raspberry Pi.
 
 When logged in at Adafruit IO, go to Feeds, click Action, "Create new Feed". Call it whatever you want, I call mine "Volumio".  
